@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+p,
+h4 {
+  font-size: 35px;
+}
+
+.container {
+  width: 90%;
+  text-align: center;
+  margin: 30px auto 0;
+}
+
+h1 {
+  font-size: 80px;
+  font-family: Impact;
+  margin-bottom: 40px;
+}
+
+#quote {
+  margin-bottom: 40px;
+}
+
+#author {
+  font-weight: normal;
+}
+button {
+  background-color: blue;
+  color: #fff;
+  padding: 30px 90px;
+  margin: 40px 0;
+}
+
+button:hover {
+  background-color: green;
+}
